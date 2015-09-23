@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="16px" viewBox="0 0 10 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-prev</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="what-we-do" sketch:type="MSArtboardGroup" transform="translate(-856.000000, -4504.000000)" fill="#58585B">
+            <g id="section-smarter-space" sketch:type="MSLayerGroup" transform="translate(139.000000, 4448.000000)">
+                <g id="Group-2" transform="translate(581.000000, 0.000000)" sketch:type="MSShapeGroup">
+                    <g id="Group" transform="translate(120.000000, 40.000000)">
+                        <path d="M16.9089773,31.5674595 C16.6767045,31.5674595 16.4435227,31.4831351 16.26625,31.3140541 C15.91125,30.9763243 15.91125,30.4288649 16.26625,30.0911351 L22.89625,23.7836757 L16.26625,17.4762162 C15.91125,17.1384865 15.91125,16.591027 16.26625,16.2532973 C16.62125,15.9155676 17.1971591,15.9155676 17.5517045,16.2532973 L25.4676136,23.7836757 L17.5517045,31.3140541 C17.3744318,31.4831351 17.1417045,31.5674595 16.9089773,31.5674595" id="arrow-prev" transform="translate(21.000000, 24.000000) scale(-1, 1) translate(-21.000000, -24.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

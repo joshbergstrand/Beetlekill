@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="49px" height="56px" viewBox="0 0 49 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>reminder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="states" sketch:type="MSArtboardGroup" transform="translate(-545.000000, -955.000000)" fill="#FFFFFF">
+            <path d="M569.5,1011 C572.605882,1011 575.147059,1008.48 575.147059,1005.4 L563.852941,1005.4 C563.852941,1008.48 566.394118,1011 569.5,1011 L569.5,1011 Z M587.852941,994.2 L587.852941,978.8 C587.852941,970.204 581.838824,963.008 573.735294,961.104 L573.735294,959.2 C573.735294,956.876 571.843529,955 569.5,955 C567.156471,955 565.264706,956.876 565.264706,959.2 L565.264706,961.104 C557.161176,963.008 551.147059,970.204 551.147059,978.8 L551.147059,994.2 L545.5,999.8 L545.5,1002.6 L593.5,1002.6 L593.5,999.8 L587.852941,994.2 L587.852941,994.2 Z" id="reminder" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

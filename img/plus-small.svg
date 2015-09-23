@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>plus 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Position" sketch:type="MSArtboardGroup" transform="translate(-360.000000, -2647.000000)" fill="#FFFFFF">
+            <g id="plus-4" sketch:type="MSLayerGroup" transform="translate(360.000000, 2647.000000)">
+                <rect id="left" sketch:type="MSShapeGroup" x="0" y="6.43243243" width="5.98446723" height="1.13513514" rx="3.5"></rect>
+                <rect id="bottom" sketch:type="MSShapeGroup" x="6.35849643" y="7.94594595" width="1.1220876" height="6.05405405" rx="3.5"></rect>
+                <rect id="right" sketch:type="MSShapeGroup" x="7.85461323" y="6.43243243" width="5.98446723" height="1.13513514" rx="3.5"></rect>
+                <rect id="top" sketch:type="MSShapeGroup" x="6.35849643" y="0" width="1.1220876" height="6.05405405" rx="3.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
